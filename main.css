@@ -1,0 +1,46 @@
+body {
+    background-image: url("data:image/jpeg;base64,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");
+}
+
+ul {
+    font-family: sans-serif;
+    color:black;
+    position: fixed;
+}
+
+h2 {
+    color: black;
+}
+
+.cechySamochodow{
+    text-align: center;
+    color: maroon;
+}
+
+.samochodyRodzinne img {
+    display: block;
+    width: 400px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wprowadzenie {
+    color: black;
+}
+
+.samochody{
+    color: forestgreen;
+    text-align: center;
+}
+
+.opis {
+    color: black;
+}
+
+#tytul {
+    color: midnightblue;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif
+}
+
